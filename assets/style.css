@@ -1,0 +1,42 @@
+header {
+    background-color: antiquewhite;
+    color: black;
+    padding: 10px;
+    
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+footer {
+    background-color: antiquewhite;
+    color: black;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: calc(100% - 20px);
+}
+
+.goat {
+    height: 45vh;
+    position: relative;
+    left: 75vh;
+    
+}
+
+figcaption {
+    position: relative;
+    left: 75vh;
+}
+
+form {
+    position: relative;
+    left: 90vh;
+}
+
+textarea {
+    height: 250px;
+    width: 500px;
+}
